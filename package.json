@@ -4,7 +4,7 @@
   "description": "App to track calories, meals and workouts",
   "main": "app.js",
   "scripts": {
-    "build": "webpack",
+    "build": "webpack --mode production",
     "dev": "webpack serve"
   },
   "keywords": [],
